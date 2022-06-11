@@ -133,7 +133,7 @@ export default function MenuBody({ navigation }) {
         </ScrollView>
       </View>
 
-      <View>{flag && <SnackBar />}</View>
+      {/* <View>{flag && <SnackBar />}</View> */}
     </View>
   );
 }

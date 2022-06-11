@@ -42,7 +42,7 @@ export default function SnackBar() {
 const styles = StyleSheet.create({
   snackContainer: {
     position: "absolute",
-    width: "100%",
+    width: "105%",
     margin: -19,
     // marginBottom: -20,
     // marginLeft: -13,
