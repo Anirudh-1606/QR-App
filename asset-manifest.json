@@ -1,0 +1,38 @@
+{
+  "files": {
+    "app.js": "/Restaurant-Menu-App/static/js/app.e792b450.chunk.js",
+    "app.js.map": "/Restaurant-Menu-App/static/js/app.e792b450.chunk.js.map",
+    "runtime~app.js": "/Restaurant-Menu-App/static/js/runtime~app.ae56384a.js",
+    "runtime~app.js.map": "/Restaurant-Menu-App/static/js/runtime~app.ae56384a.js.map",
+    "static/js/2.1acc5a6b.chunk.js": "/Restaurant-Menu-App/static/js/2.1acc5a6b.chunk.js",
+    "static/js/2.1acc5a6b.chunk.js.map": "/Restaurant-Menu-App/static/js/2.1acc5a6b.chunk.js.map",
+    "fonts/AntDesign.ttf": "/Restaurant-Menu-App/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/Restaurant-Menu-App/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/Restaurant-Menu-App/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/Restaurant-Menu-App/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/Restaurant-Menu-App/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/Restaurant-Menu-App/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/Restaurant-Menu-App/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/Restaurant-Menu-App/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/Restaurant-Menu-App/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/Restaurant-Menu-App/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/Restaurant-Menu-App/./fonts/MaterialIcons.ttf",
+    "fonts/Poppins-Bold.ttf": "/Restaurant-Menu-App/./fonts/Poppins-Bold.ttf",
+    "fonts/Poppins-Light.ttf": "/Restaurant-Menu-App/./fonts/Poppins-Light.ttf",
+    "fonts/Poppins-Regular.ttf": "/Restaurant-Menu-App/./fonts/Poppins-Regular.ttf",
+    "fonts/Poppins-SemiBold.ttf": "/Restaurant-Menu-App/./fonts/Poppins-SemiBold.ttf",
+    "fonts/SimpleLineIcons.ttf": "/Restaurant-Menu-App/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/Restaurant-Menu-App/favicon-16.png",
+    "favicon-32.png": "/Restaurant-Menu-App/favicon-32.png",
+    "favicon.ico": "/Restaurant-Menu-App/favicon.ico",
+    "index.html": "/Restaurant-Menu-App/index.html",
+    "manifest.json": "/Restaurant-Menu-App/manifest.json",
+    "serve.json": "/Restaurant-Menu-App/serve.json",
+    "static/js/2.1acc5a6b.chunk.js.LICENSE.txt": "/Restaurant-Menu-App/static/js/2.1acc5a6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.ae56384a.js",
+    "static/js/2.1acc5a6b.chunk.js",
+    "static/js/app.e792b450.chunk.js"
+  ]
+}
